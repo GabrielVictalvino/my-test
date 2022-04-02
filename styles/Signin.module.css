@@ -1,0 +1,35 @@
+.containerIn h1 {
+    font-family: inherit;
+    font-size: 2.5em;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.808);
+    line-height: 1.1;
+}
+
+.containerIn p {
+    color: #59b659;
+    cursor: pointer;
+}
+
+.containerIn input {
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    border: 1px solid rgba(0, 0, 0, 0.247);
+}
+
+.containerIn button {
+    height: 50px;
+    width: 100px;
+    background-color: #59b659;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    border: none;
+    font-size: 1.1em;
+    outline: none;
+}
