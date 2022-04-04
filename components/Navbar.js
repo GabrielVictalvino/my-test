@@ -7,19 +7,13 @@ export default function Navbar(){
             <Link href='/'><h2>conduit</h2></Link>
           <ul>
             <li>
-              <Link href="/">
-                <p>Home</p>
-              </Link>
+              <p><Link href="/">Home</Link></p>
             </li>
             <li>
-              <Link href="/Signin">
-                <p>Sign In </p>
-              </Link>
+              <p><Link href="/Signin">Sign In</Link></p> 
             </li>
             <li>
-              <Link href="/Signup">
-                <p>Sign Up </p>
-              </Link>
+              <p><Link href="/Signup">Sign Up</Link></p> 
             </li>
           </ul>  
         </div>
